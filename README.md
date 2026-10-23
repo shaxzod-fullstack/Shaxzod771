@@ -2,10 +2,11 @@
 
 **Junior Full-Stack Developer · Vue 3 · Laravel · PHP · JavaScript · REST APIs**
 
-📍 Uzbekistan
+📍 Uzbekistan, Toshkent
 
 [![GitHub](https://img.shields.io/badge/GitHub-Shaxzod771-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shaxzod771)
 [![Telegram](https://img.shields.io/badge/Telegram-@IsomiddinovShaxzod-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/IsomiddinovShaxzod)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaxzod_Isomiddinov-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/shaxzod-isomiddinov)
 
 ---
 
@@ -85,7 +86,6 @@ The front end of an online course platform, built with the RizaSoft team.
 **Database**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 **Testing & Tools**
 
