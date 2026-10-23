@@ -4,9 +4,9 @@
 
 📍 Uzbekistan, Toshkent
 
-[![GitHub](https://img.shields.io/badge/GitHub-Shaxzod771-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shaxzod771)
-[![Telegram](https://img.shields.io/badge/Telegram-@IsomiddinovShaxzod-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/IsomiddinovShaxzod)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/shaxzod-isomiddinov)
+[![GitHub](https://img.shields.io/badge/GitHub-Shaxzod771-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shaxzod771)
+[![Telegram](https://img.shields.io/badge/Telegram-%40IsomiddinovShaxzod-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/IsomiddinovShaxzod)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaxzod_Isomiddinov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaxzod-isomiddinov)
 
 ---
 
