@@ -6,7 +6,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Shaxzod771-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Shaxzod771)
 [![Telegram](https://img.shields.io/badge/Telegram-@IsomiddinovShaxzod-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/IsomiddinovShaxzod)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shaxzod_Isomiddinov-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/shaxzod-isomiddinov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/shaxzod-isomiddinov)
 
 ---
 
